@@ -1,0 +1,172 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🏴",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🏳️‍🌈",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🏳️",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Dortmunt",
+      "country": "Germany",
+      "emoji": "🏳️",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 51.514244,
+        "lng": 7.468429
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Istanbul",
+      "country": "Turkey",
+      "emoji": "🏳️‍🌈",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 41.015137,
+        "lng": 28.97953
+      },
+      "id": 17806753
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-11-11T08:21:38.121Z",
+      "notes": "",
+      "position": {
+        "lat": "51.50693503700341",
+        "lng": "-0.12598556906949554"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-11-11T12:03:21.426Z",
+      "notes": "",
+      "position": {
+        "lat": "39.91015684839832",
+        "lng": "32.86560058593751"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Giresun",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-11-14T12:38:17.883Z",
+      "notes": "asa",
+      "position": {
+        "lat": "40.92218214980578",
+        "lng": "38.38623046875001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-12-04T10:15:51.955Z",
+      "notes": "",
+      "position": {
+        "lat": "51.37876229377084",
+        "lng": "0.10162353515625"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Esher",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-12-04T10:15:58.199Z",
+      "notes": "",
+      "position": {
+        "lat": "51.37017812538269",
+        "lng": "-0.358428955078125"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-12-04T10:26:19.137Z",
+      "notes": "",
+      "position": {
+        "lat": "51.38904400993989",
+        "lng": "-0.13870239257812503"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-12-04T10:26:24.172Z",
+      "notes": "",
+      "position": {
+        "lat": "51.37019243237324",
+        "lng": "-0.08926391601562501"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-12-04T11:27:03.691Z",
+      "notes": "",
+      "position": {
+        "lat": "51.61636264685527",
+        "lng": "-0.26916503906250006"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-12-04T11:27:12.438Z",
+      "notes": "",
+      "position": {
+        "lat": "51.574607011674594",
+        "lng": "-0.42297363281250006"
+      },
+      "id": 98443208
+    }
+  ]
+}
